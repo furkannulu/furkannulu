@@ -1,6 +1,6 @@
-<h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+
+## 🌱 I’m currently learning **Artificial Intelligence**
 
 - 📫 How to reach me **mail.furkanulu@gmail.com**
 
