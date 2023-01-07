@@ -1,7 +1,7 @@
 
 
 ## 🌱 I’m curious about **Artificial Intelligence**trying to improve myself in
-## ••  I’m trying to improve myself in :  **Machine Learning - Deep Learning - Computer Vision**
+## •  I’m trying to improve myself in :  **Machine Learning - Deep Learning - Computer Vision**
 ## 💻 **Machine Learning - Deep Learning - Computer Vision**
 ## 🍃 And also **Java Spring**
 
