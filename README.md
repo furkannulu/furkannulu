@@ -1,6 +1,9 @@
 
 
-## 🌱 I’m currently learning **Artificial Intelligence**
+## 🌱 I’m curious about **Artificial Intelligence**trying to improve myself in
+## 🌱 I’m trying to improve myself in :  **Machine Learning - Deep Learning - Computer Vision**
+## 💻 **Machine Learning - Deep Learning - Computer Vision**
+## 🍃 And also **Java Spring**
 
 - 📫 How to reach me **mail.furkanulu@gmail.com**
 
