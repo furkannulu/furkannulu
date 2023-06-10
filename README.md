@@ -25,9 +25,9 @@ In the second module, we received training on **Sentiment Analysis using Natural
 As the final module, we will focus on **Image Processing** and complete the module.
 
 Additionally, during my internship, I had the opportunity to work on 
-**Oracle ERP, 
-SQL, 
-PLSQL, 
+**Oracle ERP, 
+SQL, 
+PLSQL, 
 Oracle Apex.** 
 
 Conducting my internship in a corporate company provided me with valuable experience in:
