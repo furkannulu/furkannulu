@@ -1,4 +1,10 @@
-Hello, my name is Furkan ULU. I am currently a fourth-year student studying Computer Engineering at Bandırma Onyedi Eylül University. Throughout my university life, I have had the opportunity to explore various fields and programming languages. In the past year, I have been focusing on **Data Science**. I have gained experience in **Machine Learning**,**Artificial Neural Networks** , **Deep Learning**, **Natural Language Processing**, and **Image Processing** methods through both my university projects and personal projects. I have been working with various libraries that contribute to these methods and projects, such as 
+Hello, my name is Furkan ULU. I am currently a fourth-year student studying Computer Engineering at Bandırma Onyedi Eylül University. Throughout my university life, I have had the opportunity to explore various fields and programming languages. In the past year, I have been focusing on **Data Science**. I have gained experience in 
+**·Machine Learning,
+·Artificial Neural Networks , 
+·Deep Learning, 
+·Natural Language Processing, 
+·Image Processing** 
+methods through both my university projects and personal projects. I have been working with various libraries that contribute to these methods and projects, such as 
 **·NumPy, 
 ·Matplotlib, 
 ·SciKit-Learn, 
