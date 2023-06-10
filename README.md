@@ -1,21 +1,35 @@
-Hello, my name is Furkan ULU. I am currently a fourth-year student studying Computer Engineering at Bandırma Onyedi Eylül University. Throughout my university life, I have had the opportunity to explore various fields and programming languages. In the past year, I have been focusing on Data Science. I have gained experience in Machine Learning, Artificial Neural Networks, Deep Learning, Natural Language Processing, and Image Processing methods through both my university projects and personal projects. I have been working with various libraries that contribute to these methods and projects, such as NumPy, Matplotlib, SciKit-Learn, Plotly, Beautiful Soup, NLTK, and I continue to expand my knowledge in this area.
+Hello, my name is Furkan ULU. I am currently a fourth-year student studying Computer Engineering at Bandırma Onyedi Eylül University. Throughout my university life, I have had the opportunity to explore various fields and programming languages. In the past year, I have been focusing on **Data Science**. I have gained experience in **Machine Learning**,**Artificial Neural Networks** , **Deep Learning**, **Natural Language Processing**, and **Image Processing** methods through both my university projects and personal projects. I have been working with various libraries that contribute to these methods and projects, such as 
+**·NumPy, 
+·Matplotlib, 
+·SciKit-Learn, 
+·Plotly, 
+·Beautiful Soup, 
+·NLTK**,
+and I continue to expand my knowledge in this area.
 
 In addition to my university education, I have been participating in specific courses and bootcamps to further enhance my skills. The most notable one among them was the "Yazan Zeka" bootcamp program organized by GMKA and conducted by TRAI.
 
-During the Yazan Zeka training program, the initial modules focused entirely on Data Analysis and Data Modeling. After completing these modules:
+During the Yazan Zeka training program, the initial modules focused entirely on **Data Analysis** and **Data Modeling**. After completing these modules:
 
 We conducted time series analysis on BIST100 data obtained from Yahoo Finance using Python and web scraping methods to collect data from various sources.
 We performed index calculations and dashboard designs by combining the collected data with company sales data provided by TRAI.
-We extensively preprocessed the data according to TRAI's company sales data, cleaned and classified it to make it suitable for modeling and analysis, and then performed ad-hoc data analysis using Power BI. This included profitability KPIs, budget-actual-previous year scenario analysis, and dashboard designs based on the created scenarios. We completed this phase by presenting the designs to industry experts. Through this module and my research, I had the opportunity to learn terms and information related to the Finance sector that I was previously unfamiliar with.
-In the second module, we received training on Sentiment Analysis using Natural Language Processing and are currently working on a project in this area. As the final module, we will focus on Image Processing and complete the module.
+We extensively preprocessed the data according to TRAI's company sales data, cleaned and classified it to make it suitable for modeling and analysis, and then performed ad-hoc data analysis using Power BI. This included **profitability KPIs**, **budget-actual-previous year scenario analysis**, and **dashboard designs based on the created scenarios**. We completed this phase by presenting the designs to industry experts. Through this module and my research, I had the opportunity to learn terms and information related to the Finance sector that I was previously unfamiliar with.
 
-Additionally, during my internship, I had the opportunity to work on Oracle ERP, SQL, PLSQL, and Oracle Apex. Conducting my internship in a corporate company provided me with valuable experience in:
+In the second module, we received training on **Sentiment Analysis using Natural Language Processing** and are currently working on a project in this area. 
+As the final module, we will focus on **Image Processing** and complete the module.
 
-ERP systems
-Corporate business life
-Business processes
-Business hierarchy
-Reporting and querying
+Additionally, during my internship, I had the opportunity to work on 
+**Oracle ERP, 
+SQL, 
+PLSQL, 
+Oracle Apex.** 
+
+Conducting my internship in a corporate company provided me with valuable experience in:
+**·ERP systems
+·Corporate business life
+·Business processes
+·Business hierarchy
+·Reporting and querying**
 During this period, I also strengthened my communication skills. I participated in certain meetings as part of the opportunities provided by my company, which allowed me to demonstrate my English proficiency. I also gained experience in procuring services based on the company's specific needs and integrating these services into the ERP system.
 
 - 📫 How to reach me **mail.furkanulu@gmail.com**
