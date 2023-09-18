@@ -1,9 +1,9 @@
-Hello, my name is Furkan ULU. I am currently a new graduate Computer Engineer from Bandirma Onyedi Eylül University. Throughout my university life, I have had the opportunity to explore various fields and programming languages. In the past year, I have been focusing on **Data Science and Computer Vision**. I have gained experience in <br />
+Hello, my name is Furkan ULU. I am currently a new graduate Computer Engineer👨🏻‍💻 from Bandirma Onyedi Eylül University. Throughout my university life, I have had the opportunity to explore various fields and programming languages. In the past year, I have been focusing on **Data Science and Computer Vision**. I have gained experience in <br />
 
 **·Machine Learning ,** <br />
 **·Deep Learning ,** <br />
     **·PyTorch**<br />
-    **·Tensorflow**<br />
+    **·Tensorflow**<br />![tensorflow](https://github.com/furkannulu/furkannulu/assets/63801809/1f93969d-fb19-4bd5-ba03-6d64c7e7c58b)
     **·Keras**<br />
 **·Computer Vision**<br />
 **·Image Processing**<br />
