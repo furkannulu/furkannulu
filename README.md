@@ -11,7 +11,7 @@ Hello, my name is Furkan ULU. I am currently a new graduate Computer Engineer fr
 **·NLP**<br />
 **·Data Analysis / ModellIng /<br />**
 **·Visualization Tools <br />**
-**   ·Power BI** <br />**
+  **·Power BI** <br />
 
 **·SQL**<br />
 **·Python<br />**
