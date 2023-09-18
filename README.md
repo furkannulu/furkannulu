@@ -1,19 +1,10 @@
 Hello, my name is Furkan ULU. I am currently a fourth-year student studying Computer Engineering at Bandırma Onyedi Eylül University. Throughout my university life, I have had the opportunity to explore various fields and programming languages. In the past year, I have been focusing on **Data Science**. I have gained experience in <br />
 
-**·Machine Learning,<br />
-·Artificial Neural Networks,<br /> 
-·Deep Learning, <br />
-·Natural Language Processing, <br />
-·Image Processing** <br />
+**·Machine Learning, ·Artificial Neural Networks, ·Deep Learning, ·Natural Language Processing, ·Image Processing** <br />
 
 methods through both my university projects and personal projects. I have been working with various libraries that contribute to these methods and projects, such as <br />
 
-**·NumPy, <br />
-·Matplotlib, <br />
-·SciKit-Learn, <br />
-·Plotly, <br />
-·Beautiful Soup, <br />
-·NLTK**,<br />
+**·NumPy, .Matplotlib, ·SciKit-Learn, ·Plotly, ·Beautiful Soup, ·NLTK** <br />
 
 and I continue to expand my knowledge in this area.
 
