@@ -1,10 +1,24 @@
-Hello, my name is Furkan ULU. I am currently a fourth-year student studying Computer Engineering at Bandırma Onyedi Eylül University. Throughout my university life, I have had the opportunity to explore various fields and programming languages. In the past year, I have been focusing on **Data Science**. I have gained experience in <br />
+Hello, my name is Furkan ULU. I am currently a new graduate Computer Engineer from Bandirma Onyedi Eylül University. Throughout my university life, I have had the opportunity to explore various fields and programming languages. In the past year, I have been focusing on **Data Science and Computer Vision**. I have gained experience in <br />
 
-**·Machine Learning, ·Artificial Neural Networks, ·Deep Learning, ·Natural Language Processing, ·Image Processing** <br />
+**·Machine Learning ,** <br />
+**·Deep Learning ,** <br />
+    **·PyTorch**<br />
+    **·Tensorflow**<br />
+    **·Keras**<br />
+**·Computer Vision**<br />
+**·Image Processing**<br />
+**·OpenAI Clip**<br />
+**·NLP**<br />
+**·Data Analysis / ModellIng /<br />**
+**·Visualization Tools <br />**
+**   ·Power BI** <br />**
 
-methods through both my university projects and personal projects. I have been working with various libraries that contribute to these methods and projects, such as <br />
-
-**·NumPy, .Matplotlib, ·SciKit-Learn, ·Plotly, ·Beautiful Soup, ·NLTK** <br />
+**·SQL**<br />
+**·Python<br />**
+    **{ Numpy, Pandas, Scikit-Learn<br />**
+    **Matplotlib, Plotly,Beautiful Soup,<br />**
+    **NLTK, Gensim, WordCloud,<br />**
+    **Mediapipe, OpenCV...}<br />**
 
 and I continue to expand my knowledge in this area.
 
@@ -19,23 +33,12 @@ We extensively preprocessed the data according to TRAI's company sales data, cle
 In the second module, we received training on **Sentiment Analysis using Natural Language Processing** and are currently working on a project in this area. 
 As the final module, we will focus on **Image Processing** and complete the module.
 
-Additionally, during my internship, I had the opportunity to work on <br />
+Additionally during my last internship,
+I had the opportunity to work on **PyTorch** and **Computer Vision**.
+Conducting my internship in a corporate company provided me with valuable experience in **Computer Vision, Deep Learning,
+Object Detection, Linking Images and Text with OpenAI CLIP Model and Analyzing with DeepFace, Image to Text**.
 
-**·Oracle ERP, <br />
-·SQL, <br />
-·PLSQL, <br />
-·Oracle Apex.** <br />
-
-Conducting my internship in a corporate company provided me with valuable experience in: <br />
-
-**·ERP systems <br />
-·Corporate business life <br />
-·Business processes <br />
-·Business hierarchy <br />
-·Reporting and querying**<br />
-
-During this period, I also strengthened my communication skills. I participated in certain meetings as part of the opportunities provided by my company, which allowed me to demonstrate my English proficiency. I also gained experience in procuring services based on the company's specific needs and integrating these services into the ERP system.
-
+After this internship I decided to make a careeer in this industry and being Computer Vision Engineer. So my whole focus these days is on **Computer Vision**.
 - 📫 How to reach me **mail.furkanulu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
